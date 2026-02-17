@@ -1,4 +1,5 @@
 import tkinter as tk
+from ttkbootstrap import Style
 
 win=tk.Tk()
 win.title('GUI')
