@@ -2,6 +2,7 @@ import tkinter as tk
 from ttkbootstrap import Style
 
 win=tk.Tk()
+style=Style(theme="darkly")
 win.title('GUI')
 win.geometry('100x100')
 
