@@ -2,7 +2,7 @@ import tkinter as tk
 
 win=tk.Tk()
 win.title('GUI')
-win.geometry('100x200')
+win.geometry('100x90')
 
 button1=tk.Button(win, text="Button1")
 button1.pack()
